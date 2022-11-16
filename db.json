@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mauricio Iaria ",
+      "empresa": "Google",
+      "email": "mauricio@iaria.com",
+      "telefono": "102013313",
+      "notas": "hola",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Nicolas Vazquez",
+      "telefono": 138198313,
+      "email": "nicolas@vazquez.com",
+      "empresa": "Amazon"
+    },
+    {
+      "id": 3,
+      "nombre": "Federico Nelson",
+      "telefono": 31983913,
+      "email": "federico@nelson.com",
+      "empresa": "Ebay"
+    },
+    {
+      "id": 4,
+      "nombre": "Bruno Leveroni",
+      "telefono": 319381983,
+      "email": "bruno@leveroni.com",
+      "empresa": "Apple"
+    }
+  ]
+}
